@@ -6,7 +6,26 @@
 
 Go and REVIEW this applcation HERE IS TH LINK : https://netflix-clone-b0e2d.web.app/
 
+# Signup Page for Netflix
 
+![WhatsApp Image 2023-05-21 at 1 20 01 AM(1)](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/be0b750b-a7e7-4e80-877a-211cf6f8954e)
+
+#Click to signup 
+
+![WhatsApp Image 2023-05-21 at 1 19 58 AM](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/fb0a3b9f-9b43-4de9-9fc3-32d48dd156e8)
+
+# Choosing Plans
+
+![WhatsApp Image 2023-05-21 at 1 20 00 AM(1)](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/3b27f71f-dd49-412b-8762-3686626caebc)
+
+# Then main page
+![WhatsApp Image 2023-05-21 at 1 20 00 AM](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/56d8bb88-ebd2-4e7a-afb9-031935dbc212)
+
+![WhatsApp Image 2023-05-21 at 1 20 01 AM](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/4fbacdfa-0ca0-4a6f-bdc8-5441ca399dd0)
+
+
+# Here i can Add stripe for subscription
+![WhatsApp Image 2023-05-21 at 1 19 59 AM](https://github.com/BijoyJogi123/Netflix-Clone/assets/104933333/598c0393-9cb1-4dfe-9c43-641d93e6664e)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
