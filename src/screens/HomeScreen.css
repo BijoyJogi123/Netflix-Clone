@@ -1,0 +1,11 @@
+.homeScreen{
+
+    background-color: #111;
+    object-fit: contain;
+    width: 100%;
+}
+::-webkit-scrollbar {
+    
+    background-color: transparent;
+    display: none;
+}
